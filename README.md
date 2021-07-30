@@ -2,7 +2,7 @@
 
 I'm a software engineer from Republic of Korea, currently working as frontend developer at CrazyAlpaca Inc. 
 <br/>
-Love to create and share! I am always down to do collaborate with cool ideas. 
+Love to create and share! I am always down to collaborate with cool ideas. 
 
 
 <!--
