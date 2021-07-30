@@ -1,8 +1,10 @@
 ### Hi there! I'm Yoonmin 👋👋👋 
 
-I'm a software engineer from Republic of Korea, currently working as frontend developer at Crazy Alpaca Inc. 
+I'm a frontend developer from Republic of Korea. 
 <br/>
+Current interests are software development, data visualization, interactive web application and ux engineering.
 Love to create and share! I am always down to collaborate with cool ideas. 
+
 
 
 <!--
