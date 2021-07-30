@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there! I'm Yoonmin 👋👋👋 
+
+I'm a software engineer from Republic of Korea, currently working as frontend developer at CrazyAlpaca Inc. 
+I am always down to do collaborate with cool ideas. Love to create and share!
+
 
 <!--
 **yoonminsohappy/yoonminsohappy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
