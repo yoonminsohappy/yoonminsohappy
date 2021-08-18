@@ -1,6 +1,6 @@
 ### Hi there! 👋👋👋 
 
-I'm a software engineer from Republic of Korea. 
+I'm a Front End Developer from Republic of Korea. 
 <br/>
 Current interests are software development, data visualization, interactive web application and ux engineering.
 <br />
