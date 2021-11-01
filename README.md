@@ -1,6 +1,6 @@
 ### Hi there! 👋👋👋 
 
- 🙋🏻‍♀️ I'm a software engineer from Republic of Korea.
+ 🙋🏻‍♀️ I'm a software engineer from South Korea.
  <br />
  🤍 Love to create and share! I am always down to collaborate with cool ideas. 
  <br />
