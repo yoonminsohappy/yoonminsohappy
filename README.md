@@ -1,10 +1,10 @@
 ### Hi there! 👋👋👋 
 
-I'm a software engineer from Republic of Korea. 
-<br/>
-Current interests are software development, data visualization, interactive web application and ux engineering.
-<br />
-Love to create and share! I am always down to collaborate with cool ideas. 
+ 🙋🏻‍♀️ I'm a software engineer from Republic of Korea. 
+ 🤍 Love to create and share! I am always down to collaborate with cool ideas. 
+ 🧩 Current interests are included: Web development, iOS development, UX engineering!
+ 🔥 I'm currently on the hunt for a Frontend Software Engineering position anywhere on the globe!
+ 📩 How to reach me: yoonminsohappy@gmail.com
 
 
 
