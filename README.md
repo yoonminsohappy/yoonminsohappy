@@ -4,7 +4,7 @@
  <br />
  🤍 Love to create and share! I am always down to collaborate with cool ideas. 
  <br />
- 🧩 Current interests are included: Web development, UX engineering and Growth hacking!
+ 🧩 Current interests are included: Web development and UX engineering!
  <br />
  🔥 I'm currently on the hunt for a Frontend Software Engineering position anywhere on the globe!
  <br />
