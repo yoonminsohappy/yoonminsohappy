@@ -10,7 +10,7 @@
  <br />
  📩 How to reach me: yoonminsohappy@gmail.com
  
- [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonminsohappy)](https://solved.ac/yoonminsohappy)
+ [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=yoonminsohappy)](https://solved.ac/yoonminsohappy)
  <br/>
 ![Yoonmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonminsohappy&show_icons=true&theme=radical)
 
