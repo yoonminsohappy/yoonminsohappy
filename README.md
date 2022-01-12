@@ -10,6 +10,7 @@
  <br />
  📩 How to reach me: yoonminsohappy@gmail.com
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yoonminsohappy)](https://solved.ac/yoonminsohappy/)
 
 
 <!--
