@@ -3,9 +3,8 @@
 
  🙋🏻‍♀️ I'm a Frontend Software Engineer from South Korea.
  <br />
- 🤍 Love to create and share! 
-<!--  I am always down to collaborate with cool ideas.  -->
-<!--  <br /> -->
+ 🤍 Love to create and share! <!--  I am always down to collaborate with cool ideas.  -->
+ <br />
  🧩 Current interests are included: Web development, Software Architecture and UX engineering!
  <br />
  🔥 I'm currently on the hunt for a Frontend Software Engineering position anywhere on the globe!
