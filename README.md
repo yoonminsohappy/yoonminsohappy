@@ -22,7 +22,7 @@
 ![Yoonmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonminsohappy&show_icons=true&theme=radical) 
 <!-- most used laguage -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonminsohappy&layout=compact&theme=tokyonight) -->
-Most Used...
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
