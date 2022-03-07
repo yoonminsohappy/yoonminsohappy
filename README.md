@@ -21,7 +21,7 @@
 
 ![Yoonmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonminsohappy&show_icons=true&theme=radical) 
 <!-- most used laguage -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonminsohappy&layout=compact&theme=tokyonight) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonminsohappy&layout=compact&theme=tokyonight)
 
 
 
