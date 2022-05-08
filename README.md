@@ -6,10 +6,10 @@
  🤍 Love to create and share! <!--  I am always down to collaborate with cool ideas.  -->
  <br />
  🧩 Current interests are included: Web development, Software Architecture and UX engineering!
-<!--  <br />
- 🔥 I'm currently on the hunt for a Frontend Software Engineering position anywhere on the globe! -->
  <br />
  📩 How to reach me: yoonminsohappy@gmail.com
+ <!--  <br />
+ 🔥 I'm currently on the hunt for a Frontend Software Engineering position anywhere on the globe! -->
  <br />
  
 <!--  solved.ac(백준) 뱃지 -->
