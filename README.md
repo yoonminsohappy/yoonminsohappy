@@ -10,7 +10,7 @@
  📩 How to reach me: yoonminsohappy@gmail.com
  <!--  <br />
  🔥 I'm currently on the hunt for a Frontend Software Engineering position anywhere on the globe! -->
- <br />
+
  
 <!--  solved.ac(백준) 뱃지 -->
 <!--  [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=yoonminsohappy)](https://solved.ac/yoonminsohappy) -->
@@ -19,7 +19,7 @@
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoonminsohappy&count_bg=%23E32A87&title_bg=%2372013B&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)             -->
 
 
-![Yoonmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonminsohappy&show_icons=true&theme=radical) 
+<!-- ![Yoonmin's GitHu/b stats](https://github-readme-stats.vercel.app/api?username=yoonminsohappy&show_icons=true&theme=radical) -->
 <!-- most used laguage -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonminsohappy&layout=compact&theme=tokyonight) -->
 
